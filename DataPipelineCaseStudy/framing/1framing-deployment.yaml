@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yaml
+    kompose.version: 1.22.0 (955b78124)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: 1framing
+  name: 1framing
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: 1framing
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose.yaml
+        kompose.version: 1.22.0 (955b78124)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: 1framing
+    spec:
+      schedulerName: discc
+      containers:
+        - env:
+            - name: STEP_NAME
+              value: 1fram
+          image: sina88/ubuntu-framing-v:rpi4
+          name: 1framing
+          resources: {}
+      imagePullSecrets:  
+      - name: name-secret
+      restartPolicy: Always

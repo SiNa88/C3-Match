@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert -f docker-compose.yaml
+    kompose.version: 1.22.0 (955b78124)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: 2inference
+  name: 2inference
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: 2inference
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert -f docker-compose.yaml
+        kompose.version: 1.22.0 (955b78124)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: 2inference
+    spec:
+      schedulerName: discc
+      containers:
+        - env:
+            - name: STEP_NAME
+              value: 2infer
+          image: sina88/ubuntu-inference:rpi4
+          name: 2inference
+          resources: {}
+      imagePullSecrets:  
+      - name: name-secret
+      restartPolicy: Always

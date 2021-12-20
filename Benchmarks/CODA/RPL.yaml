@@ -1,0 +1,54 @@
+vm-aws:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+vm-googl:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+vm-exo-lg:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+vm-exo-med:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+egs:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+lenovo:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+jetson:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+rpi4:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0
+rpi3:
+- encoding0
+- framing0
+- hightraining0
+- inference0
+- transcoding0

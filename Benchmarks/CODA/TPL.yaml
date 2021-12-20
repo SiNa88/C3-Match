@@ -1,0 +1,50 @@
+encoding0:
+- egs
+- lenovo
+- vm-exo-lg
+- vm-aws
+- vm-googl
+- vm-exo-med
+- jetson
+- rpi4
+- rpi3
+framing0:
+- egs
+- lenovo
+- vm-exo-lg
+- vm-exo-med
+- vm-googl
+- rpi4
+- rpi3
+- jetson
+- vm-aws
+hightraining0:
+- egs
+- lenovo
+- vm-exo-lg
+- vm-aws
+- vm-googl
+- vm-exo-med
+- jetson
+- rpi4
+- rpi3
+inference0:
+- egs
+- lenovo
+- vm-exo-med
+- vm-googl
+- vm-exo-lg
+- rpi4
+- jetson
+- rpi3
+- vm-aws
+transcoding0:
+- egs
+- lenovo
+- vm-exo-lg
+- vm-googl
+- vm-exo-med
+- vm-aws
+- jetson
+- rpi4
+- rpi3
