@@ -22,11 +22,11 @@ with urllib.request.urlopen(url) as response:
     hospital_capacities = yaml.full_load(response.read())
 '''
 
-resident__ = open('TPL.yaml', 'r')
+resident__ = open('MPL.yaml', 'r')
 resident_preferences = yaml.full_load(resident__)
 resident__.close()
 
-hospital__ = open('RPL.yaml', 'r')
+hospital__ = open('DPL.yaml', 'r')
 hospital_preferences = yaml.full_load(hospital__)
 hospital__.close()
 
