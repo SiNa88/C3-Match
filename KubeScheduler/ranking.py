@@ -1,7 +1,5 @@
 import numpy
-import matplotlib.pyplot as plt
 from operator import itemgetter, attrgetter
-from scipy.stats.mstats import rankdata
 import networkx as nx
 import yaml
 import subprocess
@@ -222,7 +220,7 @@ sorted_dictlisttasks = list( {} for i in range(len(tasks0)) )
 T  = [[0] * len(resources) for i in range(len(tasks0))]
 
 
-fileObject = open("TPL.yaml", 'w').close()
+fileObject = open("MPL.yaml", 'w').close()
 for i in range(len(tasks0)):
 	for j in range(len(resources)):
 		#if (resources[j] == "gateway"):
@@ -231,14 +229,14 @@ for i in range(len(tasks0)):
 	sorted_dictlisttasks[i]=sorted(dictlisttasks[i].items(),key = itemgetter(1), reverse=False)
 	#print((sorted_dictlisttasks[i]))
 	#print(dict(sorted_dictlisttasks[i]).keys())
-	tpllll=dict(dict(sorted_dictlisttasks[i]).keys())
+	mpllll=dict(dict(sorted_dictlisttasks[i]).keys())
 	#print(keyyys1)
-	listofvalues = list(tpllll.keys())
-	listofkeys=list(tpllll.values())
+	listofvalues = list(mpllll.keys())
+	listofkeys=list(mpllll.values())
 	#print(listofvalues)
 	dicttttt= {listofkeys[0]:listofvalues}
 	#print((listofkeys[0]))
-	with open(r"TPL.yaml", 'a') as file:
+	with open(r"MPL.yaml", 'a') as file:
 	    documents = yaml.dump(dicttttt, file)
 	#print(dict(sorted_dictlistResources[j]))
 	#print()
@@ -256,7 +254,7 @@ dictlisttasks = list( {} for i in range(len(tasks0)) )
 sorted_dictlisttasks = list( {} for i in range(len(tasks0)) )
 
 capfile = open('capacities-testbed.yml', 'w').close()
-fileObject = open("RPL.yaml",'w').close()
+fileObject = open("DPL.yaml",'w').close()
 
 for j in range(len(resources)):
 	#if (resources[j] == "gateway"):
@@ -268,14 +266,14 @@ for j in range(len(resources)):
 			dictlistResources[j][(tasks0[i],resources[j])] = numpy.round(numpy.round(Tm[i][j],5)+numpy.round(Tq[i][1][j],5)+numpy.round(Tr[i][k][j],5),5)
 			T[i][j] =  dictlistResources[j][(tasks0[i],resources[j])]
 		sorted_dictlistResources[j]=sorted(dictlistResources[j].items(),key = itemgetter(1), reverse=True)
-		rpllll=dict(dict(sorted_dictlistResources[j]).keys())
-		#print(rpllll)
-		listofvalues = list(rpllll.keys())
-		listofkeys=list(rpllll.values())
+		dpllll=dict(dict(sorted_dictlistResources[j]).keys())
+		#print(dpllll)
+		listofvalues = list(dpllll.keys())
+		listofkeys=list(dpllll.values())
 		#print(listofvalues)
 		dicttttt= {listofkeys[0]:listofvalues}
 		#print((listofkeys[0]))
-		with open(r'RPL.yaml', 'a') as file:
+		with open(r'DPL.yaml', 'a') as file:
 		    documents = yaml.dump(dicttttt, file)
 		####print(dict(sorted_dictlistResources[j]))
 		####print()
