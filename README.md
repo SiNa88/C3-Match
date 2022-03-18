@@ -1,4 +1,4 @@
-# Respository for an under-review-paper
+# Respository for an under-review paper
 
 ## C<sup>3</sup>-Match
 
