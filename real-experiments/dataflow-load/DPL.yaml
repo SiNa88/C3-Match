@@ -1,0 +1,24 @@
+vm-bg-small:
+- package-0
+- package-4
+vm-vie-med:
+- package-0
+- package-4
+vm-vie-lg:
+- package-0
+- package-4
+egs:
+- package-0
+- package-4
+lenovo:
+- package-0
+- package-4
+jetson:
+- package-0
+- package-4
+rpi4:
+- package-0
+- package-4
+rpi3:
+- package-0
+- package-4

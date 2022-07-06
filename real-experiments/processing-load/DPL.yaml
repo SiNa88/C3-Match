@@ -1,0 +1,64 @@
+vm-bg-small:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+vm-vie-med:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+vm-vie-lg:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+egs:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+lenovo:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+jetson:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+rpi4:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
+rpi3:
+- package-0
+- package-1
+- package-2
+- package-5
+- package-6
+- package-4
+- package-3
