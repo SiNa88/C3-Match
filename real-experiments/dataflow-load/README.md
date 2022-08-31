@@ -1,1 +1,1 @@
-The main code is ``scheduling-moredata.py``.
+The main script is ``scheduling-moredata.py``.
