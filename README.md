@@ -1,6 +1,4 @@
-# Respository for an under-review paper
-
-## C<sup>3</sup>-Match
+# C<sup>3</sup>-Match
 
 A matching theory-based algorithm for scheduling the data processing applications on the compute devices.
 
