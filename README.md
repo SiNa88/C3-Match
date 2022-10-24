@@ -9,7 +9,7 @@ Mehran, N., Samani, Z.N., Kimovski, D. and Prodan, R., 2022, September. Matching
 BibTex:
 ```
 @INPROCEEDINGS{9912724,  
-author={Mehran, Narges and Samani, Zahra Najafabadi and Kimovski, Dragi and Prodan, Radu},  
+author={Mehran, Narges and Najafabadi Samani, Zahra  and Kimovski, Dragi and Prodan, Radu},  
 booktitle={2022 IEEE International Conference on Cluster Computing (CLUSTER)},   
 title={Matching-based Scheduling of Asynchronous Data Processing Workflows on the Computing Continuum},   
 year={2022},  
