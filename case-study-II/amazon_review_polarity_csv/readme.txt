@@ -1,4 +1,4 @@
-Amazon Review Polaridy Dataset
+Amazon Review Polarity Dataset
 
 Version 3, Updated 09/09/2015
 
