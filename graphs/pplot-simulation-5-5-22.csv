@@ -1,0 +1,161 @@
+"Completion time [s]","method","Workflow"
+38,C3-Match,Road sign inspection
+83,C3-Match,Road sign inspection
+99,C3-Match,Road sign inspection
+139,C3-Match,Road sign inspection
+111,C3-Match,Road sign inspection
+38,C3-Match,Road sign inspection
+83,C3-Match,Road sign inspection
+99,C3-Match,Road sign inspection
+139,C3-Match,Road sign inspection
+111,C3-Match,Road sign inspection
+38,C3-Match,Road sign inspection
+83,C3-Match,Road sign inspection
+99,C3-Match,Road sign inspection
+139,C3-Match,Road sign inspection
+111,C3-Match,Road sign inspection
+38,C3-Match,Road sign inspection
+83,C3-Match,Road sign inspection
+99,C3-Match,Road sign inspection
+139,C3-Match,Road sign inspection
+111,C3-Match,Road sign inspection
+250,NAN,Road sign inspection
+304,NAN,Road sign inspection
+250,NAN,Road sign inspection
+306,NAN,Road sign inspection
+250,NAN,Road sign inspection
+319,NAN,Road sign inspection
+250,NAN,Road sign inspection
+307,NAN,Road sign inspection
+250,NAN,Road sign inspection
+306,NAN,Road sign inspection
+250,NAN,Road sign inspection
+303,NAN,Road sign inspection
+250,NAN,Road sign inspection
+306,NAN,Road sign inspection
+275,NAN,Road sign inspection
+304,NAN,Road sign inspection
+275,NAN,Road sign inspection
+312,NAN,Road sign inspection
+264,NAN,Road sign inspection
+308,NAN,Road sign inspection
+197,SEA-LEAP,Road sign inspection
+308,SEA-LEAP,Road sign inspection
+200,SEA-LEAP,Road sign inspection
+309,SEA-LEAP,Road sign inspection
+196,SEA-LEAP,Road sign inspection
+323,SEA-LEAP,Road sign inspection
+196,SEA-LEAP,Road sign inspection
+311,SEA-LEAP,Road sign inspection
+196,SEA-LEAP,Road sign inspection
+310,SEA-LEAP,Road sign inspection
+197,SEA-LEAP,Road sign inspection
+307,SEA-LEAP,Road sign inspection
+196,SEA-LEAP,Road sign inspection
+309,SEA-LEAP,Road sign inspection
+199,SEA-LEAP,Road sign inspection
+308,SEA-LEAP,Road sign inspection
+199,SEA-LEAP,Road sign inspection
+316,SEA-LEAP,Road sign inspection
+196,SEA-LEAP,Road sign inspection
+312,SEA-LEAP,Road sign inspection
+394,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+402,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+395,KCSS,Road sign inspection
+395,KCSS,Road sign inspection
+405,KCSS,Road sign inspection
+395,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+400,KCSS,Road sign inspection
+395,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+394,KCSS,Road sign inspection
+460,KCSS,Road sign inspection
+465,KCSS,Road sign inspection
+462,KCSS,Road sign inspection
+464,KCSS,Road sign inspection
+464,KCSS,Road sign inspection
+462,KCSS,Road sign inspection
+321,C3-Match,Sentiment analysis
+321,C3-Match,Sentiment analysis
+328,C3-Match,Sentiment analysis
+321,C3-Match,Sentiment analysis
+321,C3-Match,Sentiment analysis
+322,C3-Match,Sentiment analysis
+322,C3-Match,Sentiment analysis
+331,C3-Match,Sentiment analysis
+322,C3-Match,Sentiment analysis
+321,C3-Match,Sentiment analysis
+213,C3-Match,Sentiment analysis
+174,C3-Match,Sentiment analysis
+231,C3-Match,Sentiment analysis
+174,C3-Match,Sentiment analysis
+224,C3-Match,Sentiment analysis
+212,C3-Match,Sentiment analysis
+175,C3-Match,Sentiment analysis
+232,C3-Match,Sentiment analysis
+174,C3-Match,Sentiment analysis
+224,C3-Match,Sentiment analysis
+366,NAN,Sentiment analysis
+107,NAN,Sentiment analysis
+366,NAN,Sentiment analysis
+108,NAN,Sentiment analysis
+367,NAN,Sentiment analysis
+321,NAN,Sentiment analysis
+376,NAN,Sentiment analysis
+322,NAN,Sentiment analysis
+366,NAN,Sentiment analysis
+107,NAN,Sentiment analysis
+322,NAN,Sentiment analysis
+107,NAN,Sentiment analysis
+367,NAN,Sentiment analysis
+321,NAN,Sentiment analysis
+366,NAN,Sentiment analysis
+322,NAN,Sentiment analysis
+370,NAN,Sentiment analysis
+324,NAN,Sentiment analysis
+370,NAN,Sentiment analysis
+367,NAN,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+320,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+457,SEA-LEAP,Sentiment analysis
+307,KCSS,Sentiment analysis
+320,KCSS,Sentiment analysis
+309,KCSS,Sentiment analysis
+322,KCSS,Sentiment analysis
+306,KCSS,Sentiment analysis
+307,KCSS,Sentiment analysis
+309,KCSS,Sentiment analysis
+309,KCSS,Sentiment analysis
+306,KCSS,Sentiment analysis
+317,KCSS,Sentiment analysis
+307,KCSS,Sentiment analysis
+317,KCSS,Sentiment analysis
+309,KCSS,Sentiment analysis
+316,KCSS,Sentiment analysis
+307,KCSS,Sentiment analysis
+311,KCSS,Sentiment analysis
+306,KCSS,Sentiment analysis
+310,KCSS,Sentiment analysis
+306,KCSS,Sentiment analysis
+310,KCSS,Sentiment analysis

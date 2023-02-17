@@ -1,0 +1,161 @@
+"Completion time [s]","method","Workflow"
+55.41,C3-Match,Road sign inspection
+79.42,C3-Match,Road sign inspection
+79.34,C3-Match,Road sign inspection
+92.75,C3-Match,Road sign inspection
+61.4,C3-Match,Road sign inspection
+55.41,C3-Match,Road sign inspection
+79.42,C3-Match,Road sign inspection
+79.34,C3-Match,Road sign inspection
+92.75,C3-Match,Road sign inspection
+61.4,C3-Match,Road sign inspection
+55.41,C3-Match,Road sign inspection
+79.42,C3-Match,Road sign inspection
+79.34,C3-Match,Road sign inspection
+92.75,C3-Match,Road sign inspection
+61.4,C3-Match,Road sign inspection
+55.41,C3-Match,Road sign inspection
+79.42,C3-Match,Road sign inspection
+79.34,C3-Match,Road sign inspection
+92.75,C3-Match,Road sign inspection
+61.4,C3-Match,Road sign inspection
+88.87,NAN,Road sign inspection
+113.41,NAN,Road sign inspection
+88.88,NAN,Road sign inspection
+113.14,NAN,Road sign inspection
+88.8,NAN,Road sign inspection
+113.39,NAN,Road sign inspection
+88.88,NAN,Road sign inspection
+113.26,NAN,Road sign inspection
+88.66,NAN,Road sign inspection
+113.13,NAN,Road sign inspection
+88.87,NAN,Road sign inspection
+113.41,NAN,Road sign inspection
+88.88,NAN,Road sign inspection
+113.14,NAN,Road sign inspection
+88.8,NAN,Road sign inspection
+113.39,NAN,Road sign inspection
+88.88,NAN,Road sign inspection
+113.26,NAN,Road sign inspection
+88.66,NAN,Road sign inspection
+113.13,NAN,Road sign inspection
+67.86,SEA-LEAP,Road sign inspection
+92.78,SEA-LEAP,Road sign inspection
+67.87,SEA-LEAP,Road sign inspection
+92.45,SEA-LEAP,Road sign inspection
+92.42,SEA-LEAP,Road sign inspection
+92.77,SEA-LEAP,Road sign inspection
+92.39,SEA-LEAP,Road sign inspection
+92.36,SEA-LEAP,Road sign inspection
+92.3,SEA-LEAP,Road sign inspection
+92.7,SEA-LEAP,Road sign inspection
+67.86,SEA-LEAP,Road sign inspection
+92.78,SEA-LEAP,Road sign inspection
+67.87,SEA-LEAP,Road sign inspection
+92.45,SEA-LEAP,Road sign inspection
+67.88,SEA-LEAP,Road sign inspection
+92.77,SEA-LEAP,Road sign inspection
+67.87,SEA-LEAP,Road sign inspection
+92.67,SEA-LEAP,Road sign inspection
+67.85,SEA-LEAP,Road sign inspection
+92.7,SEA-LEAP,Road sign inspection
+96.31,KCSS,Road sign inspection
+128.6,KCSS,Road sign inspection
+96.22,KCSS,Road sign inspection
+128.53,KCSS,Road sign inspection
+96.1,KCSS,Road sign inspection
+128.59,KCSS,Road sign inspection
+96.32,KCSS,Road sign inspection
+128.74,KCSS,Road sign inspection
+96.0,KCSS,Road sign inspection
+128.64,KCSS,Road sign inspection
+96.31,KCSS,Road sign inspection
+128.6,KCSS,Road sign inspection
+96.22,KCSS,Road sign inspection
+128.53,KCSS,Road sign inspection
+96.1,KCSS,Road sign inspection
+128.59,KCSS,Road sign inspection
+96.32,KCSS,Road sign inspection
+128.74,KCSS,Road sign inspection
+96.0,KCSS,Road sign inspection
+128.64,KCSS,Road sign inspection
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+182.57,C3-Match,Sentiment analysis
+190.57,C3-Match,Sentiment analysis
+203.06,NAN,Sentiment analysis
+194.25,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+194.25,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+194.25,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+194.25,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+194.25,NAN,Sentiment analysis
+192.51,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+212.08,NAN,Sentiment analysis
+218.46,NAN,Sentiment analysis
+259.86,NAN,Sentiment analysis
+192.51,NAN,Sentiment analysis
+203.06,NAN,Sentiment analysis
+212.08,NAN,Sentiment analysis
+218.46,NAN,Sentiment analysis
+259.86,NAN,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+210.82,SEA-LEAP,Sentiment analysis
+178.63,SEA-LEAP,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.55,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
+194.36,KCSS,Sentiment analysis
